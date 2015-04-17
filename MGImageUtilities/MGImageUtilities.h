@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "UIImage+ProportionalFill.h"
+#import "UIImage+Tint.h"
 
 //! Project version number for MGImageUtilities.
 FOUNDATION_EXPORT double MGImageUtilitiesVersionNumber;
